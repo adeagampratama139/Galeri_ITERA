@@ -21,6 +21,7 @@ import javax.swing.table.DefaultTableModel;
  *
  * @author Asus
  */
+ 
 public class bayar extends javax.swing.JFrame {
     int sum = 0;
     String [] datum;
